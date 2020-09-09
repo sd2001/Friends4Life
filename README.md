@@ -9,7 +9,7 @@ Your task is to build a deep learning model that analyzes an image of a gatherin
 ## <div align="center">🏆Leaderboard #5️⃣ </div>
 ![Welcome Page](https://github.com/sd2001/Friends4Life-HackerEarth/blob/master/leaderboard.jpg)
 
-**Tech-Stack **
+**Tech-Stack**
 
 - [x] Python❤️
 
