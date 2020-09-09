@@ -6,7 +6,7 @@ Your task is to build a deep learning model that analyzes an image of a gatherin
 
 ![Welcome Page](https://github.com/sd2001/Friends4Life-HackerEarth/blob/master/friends.jpg)
 
-## <div align="center">🏆Leaderboard #5️⃣ </div>
+## <div align="center">🏆Leaderboard #5️⃣ 🎉</div>
 ![Welcome Page](https://github.com/sd2001/Friends4Life-HackerEarth/blob/master/leaderboard.jpg)
 
 **Tech-Stack**
@@ -22,4 +22,7 @@ Your task is to build a deep learning model that analyzes an image of a gatherin
    - [x] PIL
    
  ***Resnet-18 worked the best here***
+ ```
+ Highest Accuracy Reached : 98.4472%🎉
+ ```
  
